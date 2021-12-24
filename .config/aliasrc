@@ -1,0 +1,12 @@
+#!/bin/bash
+
+alias \
+	sdn="doas shutdown -h now" \
+	sync="doas pacman -S" \
+	update="doas pacman -Syu" \
+	untar="tar -zxvf" \
+	rbt="doas reboot" \
+	rv="doas vim" \
+	v="vim" \
+	mx="pulsemixer" \
+	cls="clear" \
